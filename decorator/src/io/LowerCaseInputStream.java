@@ -1,7 +1,5 @@
 package io;
 
-import java.io.*;
-
 public class LowerCaseInputStream extends FilterInputStream {
 
 	public LowerCaseInputStream(InputStream in) {
